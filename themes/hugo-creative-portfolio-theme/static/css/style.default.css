@@ -422,8 +422,14 @@ SIDEBAR + RIGHT COLUMN
 }
 .content-column-content p,
 .content-column-content li {
-  color: #999999;
+  color: #333;
+  font-size:1em;
 }
+
+.content-column-content h1{font-size:2em;}
+.content-column-content h2{font-size:1.2em; font-family: "PT+Serif", Helvetica, Arial, sans-serif; font-weight: 400;}
+
+
 .content-column-content ul li {
   list-style-type: none;
 }
@@ -851,6 +857,9 @@ a:active {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+
+
 .box-masonry-description h1, 
 .box-masonry-description h2, 
 .box-masonry-description h3, 
@@ -858,10 +867,12 @@ a:active {
 .box-masonry-description h5, 
 .box-masonry-description h6{
   font-weight: 400;
-  font-size: 0.8em;
+  font-size: 1em;
   margin-bottom:0.6em;
+  font-family:"PT+Serif", Helvetica, sans-serif
   
 }
+
 
 .box-masonry h4 {
   font-size: 16px;
@@ -884,7 +895,7 @@ a:active {
 }
 .box-masonry .box-masonry-text p {
   color: #999999;
-  font-size: 14px;
+  font-size: 1em;
 }
 .box-masonry .box-masonry-hover-text-header {
   position: absolute;
@@ -1419,6 +1430,10 @@ STYLE SWITCHER FOR DEMO
   line-height: 24px;
 }
 @media (max-width: 767px) {
+  .box-masonry{
+    width: 90%;
+    margin: 0em auto 2em auto;
+  }
   .navbar-nav .open .dropdown-menu > li > a,
   .navbar-nav .open .dropdown-menu .dropdown-header {
     padding: 5px 15px 5px 25px;
@@ -1609,7 +1624,7 @@ STYLE SWITCHER FOR DEMO
 }
 /* scaffolding */
 body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "PT+Serif", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.55;
   color: #000000;

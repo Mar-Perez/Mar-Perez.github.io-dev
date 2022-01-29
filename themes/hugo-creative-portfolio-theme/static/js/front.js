@@ -30,7 +30,11 @@ function carousels() {
 /* =========================================
  *  masonry
  *  =======================================*/
+
+
+    
 function masonry() {
+    if (window.innerWidth > 780) {
     var $grid = $('.grid').masonry({
         itemSelector: ".masonry-item"
     });
@@ -38,6 +42,8 @@ function masonry() {
         $grid.masonry('layout');
     });
 }
+}
+
 /* =========================================
  *  Off-canvas menu
  *  =======================================*/
