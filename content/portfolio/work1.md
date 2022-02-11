@@ -7,8 +7,10 @@ title = "El crimen perfecto"
 weight = 0
 +++
 
+
 — Deje que lo entienda bien, señora Christie. Usted insiste en que no recuerda nada de lo sucedido.
 <!--more-->
+
 El inspector observó a la mujer darle vueltas a la pregunta antes de responder. Se había presentado en la comisaría a la hora señalada, vistiendo un sencillo traje de muselina gris y un sombrero del mismo color que, a su juicio, definía muy bien el carácter anodino de su propietaria. Ropa gris, ojos grises, voz gris. Nada en ella decía escritora, ni fama, ni inteligencia, y nada en ella explicaba de antemano porque llevaba desaparecida casi doce días.
 
 — Mi marido ya le ha explicado la situación, agente. — respondió con voz suave y los ojos fijos en la mesa de roble que los separaba.
@@ -24,7 +26,7 @@ El inspector observó a la mujer darle vueltas a la pregunta antes de responder.
 — Inspector. — insistió. Para escándalo, pensó, el de las últimas semanas. — Según el recepcionista tardó usted casi dos horas en bajar.
 
 — ¿Tanto? No lo recuerdo, el tiempo vuela cuando se baña una en un hotel. Con la espuma y los jabones con olor a lavanda.
-
+    
 El inspector se reclinó hacia atrás, y respiró hondo. La mujer hablaba lentamente, con ese deje que usan las esposas para decir que, pese a todo, saben más de cualquier tema que uno mismo.
 
 — ¿Se tomó muchos de esos baños, señora Christie?
@@ -50,3 +52,4 @@ La sonrisa afable mudó fugazmente, alzó la comisura de los labios y por un seg
 — ¿De verdad, agente?
 
 Alzó la mirada y volvió a verla. A Agatha Christie, la escritora, sonriendo como debía sonreír cuando desvelaba al lector el cómo y el porqué del crimen. Miró entonces los papeles apilados en la mesa. Entrevistas, artículos, informes y, entre fotografías del coche abandonado en una cuneta, los registros del lujoso hotel donde se había alojado los últimos días. En la segunda página, firmada con su letra pequeña y apretada, la señora Christie había reservado una suite bajo el nombre de Theresa Neele. La amante de su marido. Una confesión escrita que nunca podría llevar ante un juez. El crimen perfecto, sin muertos ni juicios, con el que la escritora había puesto la rúbrica final a su matrimonio.
+

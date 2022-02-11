@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Relatos"
-  copyright = "&copy;2016 Maria del Mar Pérez"
+  copyright = "&copy;2022 Maria del Mar Pérez"
   sidebarAbout = [
     "Escribo, leo, roleo, releo, y cuido de mis gatos. También cuido de mis plantas, pero menos."
   ]
@@ -41,13 +41,14 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Relatos"
   url = "portfolio/"
   home = true
 
   [[params.navlinks]]
-  name = "About"
+  name = "Yo"
   url = "about/"
+
 
 #  [[params.navlinks]]
 #  name = "Get in touch"
