@@ -1,4 +1,4 @@
-baseurl = "https://mar-perez.github.io"
+baseurl = "http://www.mar-perez.com"
 title = "Mare Nostrum"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "es-ES"
