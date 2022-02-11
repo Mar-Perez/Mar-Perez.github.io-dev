@@ -33,4 +33,4 @@ La niña se lo miró unos segundos, con la nariz ligeramente arrugada, como quie
 
 Sale de la habitación y cierra la puerta con cuidado. La ha despertado un murmullo que va y viene, un compás suave y ondulante que la llama desde el recuerdo. 
 
-Camina descalza por las calzadas de suelos suaves que cubren la ciudad submarina hasta alcanzar el lado oeste de la bóveda. El agua está oscura, pero, entre las sombras, Maraña puede ver formas estiradas que se acercan al cristal. Figuras que flotan debajo del peso del océano y la esperan, cantando. Dándole la bienvenida, arropándola en la promesa del reencuentro. Nosotros, dicen. Una de nosotros si nos dejas entrar. 
+Camina descalza por las calzadas de suelos suaves que cubren la ciudad submarina hasta alcanzar el lado oeste de la bóveda. El agua está oscura, pero, entre las sombras, Maraña puede ver formas estiradas que se acercan al cristal. Figuras que flotan debajo del peso del océano y la esperan, cantando. Dándole la bienvenida, arropándola en la promesa del reencuentro. _Nosotros_, dicen. _Una de nosotros si nos dejas entrar_. 
