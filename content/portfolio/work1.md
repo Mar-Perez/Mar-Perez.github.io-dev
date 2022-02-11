@@ -13,7 +13,7 @@ weight = 0
 
 El inspector observó a la mujer darle vueltas a la pregunta antes de responder. Se había presentado en la comisaría a la hora señalada, vistiendo un sencillo traje de muselina gris y un sombrero del mismo color que, a su juicio, definía muy bien el carácter anodino de su propietaria. Ropa gris, ojos grises, voz gris. Nada en ella decía escritora, ni fama, ni inteligencia, y nada en ella explicaba de antemano porque llevaba desaparecida casi doce días.
 
-— Mi marido ya le ha explicado la situación, agente. — respondió con voz suave y los ojos fijos en la mesa de roble que los separaba.
+— Mi marido ya le ha explicado la situación, agente. — La autora tenia la voz suave, y los ojos fijos en la mesa de roble que los separaba.
 
 — Inspector. — la corrigió, por tercera vez desde que empezaran a hablar. — Ayer su marido la fue a recoger al Hotel Swan Hydro, ¿es cierto?
 
@@ -23,7 +23,7 @@ El inspector observó a la mujer darle vueltas a la pregunta antes de responder.
 
 — Un poco, sí. Acababa de empezar el baño, y claro. — Le ofreció una sonrisa apocada el tiempo justo para que él la viera. — ¿Se imagina el escándalo si hubiera salido en albornoz, agente?
 
-— Inspector. — insistió. Para escándalo, pensó, el de las últimas semanas. — Según el recepcionista tardó usted casi dos horas en bajar.
+— Inspector. — insistió. Para escándalo, pensó para si, el de las últimas semanas. — Según el recepcionista tardó usted casi dos horas en bajar.
 
 — ¿Tanto? No lo recuerdo, el tiempo vuela cuando se baña una en un hotel. Con la espuma y los jabones con olor a lavanda.
     
