@@ -454,7 +454,7 @@ SIDEBAR + RIGHT COLUMN
   font-size:1.2em;
 }
 
-.content-column-content h1{font-size:2em;}
+.content-column-content h1{font-size:2em; border-bottom: 1px solid var(--primary); padding-bottom: 0.5em;}
 .content-column-content h2{color:#333; font-size:1.4em; font-family: "Karla", Helvetica, Arial, sans-serif; font-weight: 400;}
 
 
