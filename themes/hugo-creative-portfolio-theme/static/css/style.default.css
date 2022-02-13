@@ -22,6 +22,8 @@ body {
   --text-dark:#202020;
 }
 
+.container-fluid{height: 100%;}
+
 #all{height: 100%;}
 .row{height: 100%;}
 
@@ -394,7 +396,7 @@ SIDEBAR + RIGHT COLUMN
   list-style-type: none;
   padding:0;
   width: 60%;
-  margin:0 auto;
+  margin:1em auto;
 }
 .sidebar-menu li {
   margin-bottom: 5px;
@@ -944,7 +946,7 @@ a:active {
 }
 .box-masonry .box-masonry-text {
   padding: 0px;
-  margin-bottom:1em;
+  margin-bottom:0;
 }
 .box-masonry .box-masonry-text p {
   color: var(--text-dark)666;
@@ -1429,7 +1431,7 @@ STYLE SWITCHER FOR DEMO
   .navbar-collapse.right {
     float: right;
   }
-  .container-fluid{height: 100%;}
+
   .navbar-fixed-top .navbar-collapse,
   .navbar-static-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
@@ -2087,7 +2089,7 @@ h3,
   margin-bottom: 24px;
 }
 p {
-  margin: 0 0 24px;
+  margin: 0 0 0;
   font-size:1em;
 }
 .lead {
