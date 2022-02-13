@@ -1,4 +1,4 @@
-baseurl = "http://www.marsalada.net/"
+baseurl = "www.marsalada.net"
 title = "La mar salada"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "es-ES"
