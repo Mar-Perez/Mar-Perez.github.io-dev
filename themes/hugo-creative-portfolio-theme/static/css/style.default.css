@@ -362,7 +362,7 @@ SIDEBAR + RIGHT COLUMN
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  font-family: "Montserrat", "Times New Roman", Times, serif;
+  font-family: "Montserrat", Helvetica, sans-serif;
   padding:3em 0 1em 0;
 }
 .sidebar-heading a {
@@ -372,6 +372,14 @@ SIDEBAR + RIGHT COLUMN
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
+
+.sidebar-heading a span{
+  font-family:"Karla", "Times New Roman", Times, serif;
+  text-transform:lowercase;
+  font-size: 1em;
+  font-style: italic;
+}
+
 .sidebar-heading a:hover {
   border-bottom: dotted 1px var(--primary);
   color: var(--white);
