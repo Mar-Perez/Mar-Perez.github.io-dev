@@ -1,4 +1,4 @@
-baseurl = "https://mar-perez.github.io/"
+baseurl = "http://marsalada.net"
 title = "Sense base url"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "es-ES"
