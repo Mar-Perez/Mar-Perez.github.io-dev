@@ -438,7 +438,7 @@ SIDEBAR + RIGHT COLUMN
   color: var(--primary);
 }
 .content-column {
-  padding-top: 40px;
+  padding: 3em;
   
 }
 .content-column.white-background {
