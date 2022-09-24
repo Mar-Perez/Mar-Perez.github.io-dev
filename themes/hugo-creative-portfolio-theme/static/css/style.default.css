@@ -337,9 +337,6 @@ SIDEBAR + RIGHT COLUMN
 #sidebar {
   padding-top: 0px;
   height: 100%;
-
-  /**/
-  float:right;
 }
 .sidebar-content {
     z-index: 0;
@@ -357,8 +354,7 @@ SIDEBAR + RIGHT COLUMN
 .sidebar-image{
   width:80%;
   border:1em solid var(--white);
-  box-shadow: 0 0 20px #ddd;
-  border-radius: 13em;
+  box-shadow: 0 0 5px #ccc;
 
 }
 
@@ -445,7 +441,7 @@ SIDEBAR + RIGHT COLUMN
   min-height: 100vh;
 }
 .grid {
-  padding: 1em;
+  padding-top: 5px;
   overflow-y: hidden;
 }
 .content-column-content {
@@ -900,13 +896,12 @@ a:active {
   background: var(--white);
   margin-bottom: 30px;
   position: relative;
-  box-shadow: 0 0 20px #ddd;
+  box-shadow: 0 0 5px #ccc;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
   overflow: hidden;
   text-overflow: ellipsis;
-  border-radius: 2em;
 
 }
 
