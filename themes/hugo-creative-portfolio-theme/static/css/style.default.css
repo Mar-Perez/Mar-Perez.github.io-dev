@@ -17,9 +17,9 @@ GENERAL
 
 body {
   --primary: #3F3F3F;
-  --white: #ffffff; 
-  --secondary: #576490;
-  --text-dark:#202020;
+  --white: #ffffff;
+  --secondary: #e83151;
+  --text-dark: #2e2836;
 }
 
 .container-fluid{height: 100%;}
@@ -937,7 +937,7 @@ a:active {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   margin-top: 0;
-  padding: 0.3em 1em;
+  padding: 0.6em 1em 0em 1em;
   text-align: center;
 }
 .box-masonry h4 a {
