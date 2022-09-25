@@ -11,9 +11,7 @@ GENERAL
 =====================
 */
 
-
-@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Montserrat&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
 
 body {
   --primary: #3F3F3F;
@@ -369,7 +367,7 @@ SIDEBAR + RIGHT COLUMN
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  font-family: "Montserrat", Helvetica, sans-serif;
+  font-family: "Josefin Sans", Helvetica, sans-serif;
   padding:3em 0 1em 0;
 }
 .sidebar-heading a {
@@ -453,6 +451,8 @@ SIDEBAR + RIGHT COLUMN
   padding-left: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
+  width: 80%;
+  margin: 0 auto;
 }
 @media (min-width: 1200px) {
   .content-column-content {
@@ -467,6 +467,9 @@ SIDEBAR + RIGHT COLUMN
 .content-column-content li {
   color: var(--text-dark);
   font-size:1.2em;
+  margin-top:0.5em;
+  font-family: Helvetica, Arial, sans-serif; 
+
 }
 
 .content-column-content h1{
@@ -2051,7 +2054,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  font-family: "Josefin Sans", Helvetica, Arial, sans-serif;
   font-weight: 700;
   line-height: 1.2;
   margin-bottom:0px;
