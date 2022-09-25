@@ -3,8 +3,10 @@
   {{ partial "mobile_nav_toggle.html" . }}
   <div class="row">
     <div>
-      <div class="content-column-content" style="background:{{ .Title }};">
+      <div class="content-column-content">
         <h1>{{ .Title }}</h1>
+        <img src="{{ .Title }}">
+        
          {{ .Content }}
          {{ template "_internal/disqus.html" . }}
       </div>
