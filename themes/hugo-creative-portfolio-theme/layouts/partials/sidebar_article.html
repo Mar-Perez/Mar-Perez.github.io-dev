@@ -2,12 +2,15 @@
   <div class="sidebar-content">
   
 
-    <img class="sidebar-image" src="{{ .Site.BaseURL }}/img/about.jpg">
+    <!--img class="sidebar-image" src="{{ .Site.BaseURL }}/img/about.jpg"-->
     
+    <h1>Mar Pérez {{ partial "social_buttons_in_sidebar.html" . }}</h1>
+    
+
     {{ range .Site.Params.sidebarAbout }}
-      <p class="sidebar-p">{{ . | safeHTML }}</p>
+    <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
-    {{ partial "social_buttons_in_sidebar.html" . }}
+    
 
     <div class="copyright">
       <p class="credit">

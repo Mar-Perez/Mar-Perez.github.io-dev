@@ -3,14 +3,14 @@
  
 
   <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12" style="background-image: url({{.Params.image | absURL}}); background-size: cover; height:20em;   background-repeat: no-repeat; background-attachment: fixed; background-position: center;"></div>
     <div>
-      
       <div class="content-column-content">
     
         {{ range .Site.Params.navlinks }}
         <a class="back" href="{{ absURL .url }}">Volver a la lista de relatos</a>
       {{ end }}
-        <img class="content-image" src="{{.Params.image | absURL}}">
+        <!--img class="content-image" src="{{.Params.image | absURL}}"-->
 
         <h1>{{ .Title }}</h1>
       
