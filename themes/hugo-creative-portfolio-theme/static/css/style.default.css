@@ -68,7 +68,7 @@ section.background-secondary {
 }
 .italic {
   font-style: italic;
-  font-family: "Karla", "Times New Roman", Times, serif;
+  font-family: "Josefin Sans", "Times New Roman", Times, serif;
 }
 .img-responsive {
   margin: 0 auto;
@@ -338,6 +338,7 @@ SIDEBAR + RIGHT COLUMN
 
   /**/
   float:right;
+  margin-top:3em;
 }
 .sidebar-content {
     z-index: 0;
@@ -345,6 +346,12 @@ SIDEBAR + RIGHT COLUMN
 /*    background-color: var(--primary);*/
     height: 100%;
 }
+
+
+.content-column .sidebar-content img{
+  width:80%;
+}
+
 @media screen and (min-width: 992px) {
   .sidebar-content {
     padding-left: 0.5em;
@@ -364,12 +371,14 @@ SIDEBAR + RIGHT COLUMN
 .sidebar-heading {
   
   text-align: center;
-  font-size: 18px;
+  font-size: 2em;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-family: "Josefin Sans", Helvetica, sans-serif;
-  padding:3em 0 1em 0;
+  padding:1.5em 0 1.5em 0;
+  border-bottom: 1px solid var(--primary); 
 }
+
 .sidebar-heading a {
 
   text-decoration: none;
@@ -379,7 +388,7 @@ SIDEBAR + RIGHT COLUMN
 }
 
 .sidebar-heading a span{
-  font-family:"Karla", "Times New Roman", Times, serif;
+  font-family: "Josefin Sans", "Times New Roman", Times, serif;
   text-transform:lowercase;
   font-size: 1em;
   font-style: italic;
@@ -436,9 +445,14 @@ SIDEBAR + RIGHT COLUMN
   color: var(--primary);
 }
 .content-column {
-  padding: 3em;
-  
+  padding: 2em;
 }
+
+.content-image.img-responsive{
+margin:0 0 2.5em 0;
+
+}
+
 .content-column.white-background {
   background: var(--white);
   min-height: 100vh;
@@ -448,16 +462,14 @@ SIDEBAR + RIGHT COLUMN
   overflow-y: hidden;
 }
 .content-column-content {
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 20px;
-  width: 80%;
+
+  width: 100%;
   margin: 0 auto;
 }
 @media (min-width: 1200px) {
   .content-column-content {
-    padding-left: 40px;
-    padding-right: 40px;
+    width: 70%;
+    margin: 0 auto;
   }
 }
 .content-column-content p.lead {
@@ -473,11 +485,17 @@ SIDEBAR + RIGHT COLUMN
 }
 
 .content-column-content h1{
-  font-size:2em; 
+  font-size:3em; 
   border-bottom: 1px solid var(--primary); 
-  padding-bottom: 0.5em;}
+  }
   
-.content-column-content h2{color:#333; font-size:1.4em; font-family: "Karla", Helvetica, Arial, sans-serif; font-weight: 400;}
+.content-column-content h2{
+  color:#333; 
+  font-size:1.4em; 
+  font-family: "Josefin Sans", "Times New Roman", Times, serif; 
+  font-weight: 400;
+  margin:1.5em 0 1em 0;
+}
 
 
 .content-column-content ul li {
@@ -928,7 +946,8 @@ a:active {
   font-size: 0.9em;
   margin:0.6em 0;
   line-height: normal;
-  font-family:"Karla", Helvetica, sans-serif
+  font-family: "Helvetica", "Times New Roman", Times, serif;
+  line-height: 1.5em;
   
 }
 
@@ -1397,7 +1416,7 @@ STYLE SWITCHER FOR DEMO
 }
 /* navbar */
 .navbar {
-  font-family: "Karla", Helvetica, Arial, sans-serif;
+  font-family: "Josefin Sans", "Times New Roman", Times, serif;
   min-height: 80px;
   margin-bottom: 0;
   border-top: none;
@@ -1689,7 +1708,7 @@ STYLE SWITCHER FOR DEMO
 }
 /* scaffolding */
 body {
-  font-family: "Karla", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica", "Times New Roman", Times, serif;
   font-size: 16px;
   line-height: 1.55;
   color: #000000;
@@ -1766,7 +1785,7 @@ hr {
 /* buttons  */
 .btn {
   font-weight: 400;
-  font-family: "Karla", Helvetica, Arial, sans-serif;
+  font-family: "Josefin Sans", "Times New Roman", Times, serif;
   padding: 6px 12px;
   font-size: 16px;
   line-height: 1.55;

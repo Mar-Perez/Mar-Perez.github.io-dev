@@ -9,9 +9,9 @@ weight = 1
 
 
 ## Año 132 tras el gran deshielo. Residencia 11. Centro de la bóveda. 
-
-«Uno de estos no es como los demás» pensó la madre, mientras observaba los bebés durmiendo en sus cunas. «Uno de estos es diferente».  
 <!--more-->
+«Uno de estos no es como los demás» pensó la madre, mientras observaba los bebés durmiendo en sus cunas. «Uno de estos es diferente».  
+
 Tres niños y tres niñas, de piel blanca como el armiño, de pelo oscuro, y ojos de aceituna. Seis hijos e hijas perfectos hasta el último detalle, como los había encargado. Como lo eran todos los niños debajo de la bóveda. Todos, excepto la niña que la observaba en silencio desde la séptima cuna. Había llegado junto a sus hermanos. Un error de reparto, había dicho la compañía, pero para entonces la madre ya había decidido quedársela. 
 
 Maraña, la llamaba el servicio, y ella no podía culparlos. El pelo de la niña, verde como las algas del océano que los rodeaba, parecía moverse por propia voluntad para enredarse sobre sí mismo tan pronto como dejaban de peinarlo. Tenía la piel cubierta de un musgo fino y blanquecino, como escamas, y los ojos, grandes y almendrados, eran una sola capa azul cobalto, sin pupilas. Su carilla de merluza miraba el mundo desafiante, y, quizás por eso, se detuvo a acariciarle la mejilla y se inclinó a oler el mar en su pelo. 

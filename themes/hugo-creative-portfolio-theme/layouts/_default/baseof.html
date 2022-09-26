@@ -4,8 +4,9 @@
 <body>
   <div id="all">
       <div class="container-fluid">
+        <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }} <br><span>relatos</span></a></h1>
           <div class="row row-offcanvas row-offcanvas-left">
-              {{ partial "sidebar.html" . }}
+              
               {{ block "main" . }}
               {{ end }}
           </div>
