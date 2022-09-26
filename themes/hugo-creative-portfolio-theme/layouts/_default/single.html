@@ -1,17 +1,23 @@
 {{ define "main" }}
 <div class="col-xs-12 col-sm-12 col-md-12 content-column white-background">
-  {{ partial "mobile_nav_toggle.html" . }}
+ 
+
   <div class="row">
     <div>
+      
       <div class="content-column-content">
-
+    
+        {{ range .Site.Params.navlinks }}
+        <a class="back" href="{{ absURL .url }}">Volver a la lista de relatos</a>
+      {{ end }}
         <img class="content-image" src="{{.Params.image | absURL}}">
 
         <h1>{{ .Title }}</h1>
       
          {{ .Content }}
-         {{ partial "sidebar.html" . }}
+         
       </div>
+      {{ partial "sidebar_article.html" . }}
     </div>
   </div>
 </div>

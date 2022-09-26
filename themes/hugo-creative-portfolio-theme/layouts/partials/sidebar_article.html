@@ -1,9 +1,9 @@
-<div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+<div id="sidebar_article" class="col-xs-12 col-sm-12 col-md-12 sidebar-offcanvas">
   <div class="sidebar-content">
   
 
     <img class="sidebar-image" src="{{ .Site.BaseURL }}/img/about.jpg">
-    <br>
+    
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
