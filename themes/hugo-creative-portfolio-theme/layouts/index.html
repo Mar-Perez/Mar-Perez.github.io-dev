@@ -2,6 +2,7 @@
     {{ range .Site.Params.navlinks }}
     {{ if .home }}
     <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
+    {{ template "_internal/google_analytics.html" . }}
     {{ end }}
     {{ end }}
   </head>
